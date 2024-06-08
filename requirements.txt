@@ -1,0 +1,11 @@
+keras
+numpy
+pandas
+opencv_python_headless
+tensorflow
+seaborn
+gdown
+pickle4
+joblib
+scikit-learn
+tk
