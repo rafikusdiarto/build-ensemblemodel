@@ -9,3 +9,4 @@ pickle4
 joblib
 scikit-learn
 tk
+ipywidgets
